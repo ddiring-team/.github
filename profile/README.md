@@ -1,7 +1,7 @@
 <div align="center">
 
 # <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/b6636962-edf9-4a57-bd70-6c66ad81749e" />
- 띠링 (Ddiring)
+### 띠링 (Ddiring)
 
 ### 어르신과 가족을 잇는 AI 기반 일상 돌봄 연결 서비스
 
